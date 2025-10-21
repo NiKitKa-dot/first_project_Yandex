@@ -1,0 +1,16 @@
+C:\Users\ygv08\source\repos\Laba5\bin\Debug\net8.0-windows\Laba5.exe
+C:\Users\ygv08\source\repos\Laba5\bin\Debug\net8.0-windows\Laba5.deps.json
+C:\Users\ygv08\source\repos\Laba5\bin\Debug\net8.0-windows\Laba5.runtimeconfig.json
+C:\Users\ygv08\source\repos\Laba5\bin\Debug\net8.0-windows\Laba5.dll
+C:\Users\ygv08\source\repos\Laba5\bin\Debug\net8.0-windows\Laba5.pdb
+C:\Users\ygv08\source\repos\Laba5\obj\Debug\net8.0-windows\Laba5.Form1.resources
+C:\Users\ygv08\source\repos\Laba5\obj\Debug\net8.0-windows\Laba5.csproj.GenerateResource.cache
+C:\Users\ygv08\source\repos\Laba5\obj\Debug\net8.0-windows\Laba5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ygv08\source\repos\Laba5\obj\Debug\net8.0-windows\Laba5.AssemblyInfoInputs.cache
+C:\Users\ygv08\source\repos\Laba5\obj\Debug\net8.0-windows\Laba5.AssemblyInfo.cs
+C:\Users\ygv08\source\repos\Laba5\obj\Debug\net8.0-windows\Laba5.csproj.CoreCompileInputs.cache
+C:\Users\ygv08\source\repos\Laba5\obj\Debug\net8.0-windows\Laba5.dll
+C:\Users\ygv08\source\repos\Laba5\obj\Debug\net8.0-windows\refint\Laba5.dll
+C:\Users\ygv08\source\repos\Laba5\obj\Debug\net8.0-windows\Laba5.pdb
+C:\Users\ygv08\source\repos\Laba5\obj\Debug\net8.0-windows\Laba5.genruntimeconfig.cache
+C:\Users\ygv08\source\repos\Laba5\obj\Debug\net8.0-windows\ref\Laba5.dll
