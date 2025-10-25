@@ -1,0 +1,44 @@
+# Временные файлы
+*.tmp
+*.temp
+*.log
+*.cache
+
+# Файлы операционных систем
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Файлы редакторов
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Файлы сборки
+build/
+dist/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Наш временный файл
+tmp_data.txt
